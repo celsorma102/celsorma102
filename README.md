@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Celso!
 
-<!--
-**celsorma102/celsorma102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante/Desenvolvedor interessado em **Python, Power BI, SQL, Power Platform e Cloud**  
+📊 Apaixonado por **dados, automação e criação de aplicações práticas**  
+⚡ Curiosidade: gosto de unir **análise de dados com desenvolvimento de soluções reais**
 
-Here are some ideas to get you started:
+![Celso's GitHub stats](https://github-readme-stats.vercel.app/api?username=celsorma102&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Ferramentas
+- Linguagens: **Python, Java, SQL**  
+- Banco de Dados: **SQLite, MySQL, PostgreSQL**
+- Ferramentas: **Power BI, Qlik Sense, Excel, Power Apps, Git/GitHub**
+- Cloud: **AWS**
+
+---
+
+## 🌐 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/celso-mamoru-siva-junior-618ab116a)  
+- 📧 E-mail: celsorma102@gmail.com
