@@ -11,8 +11,8 @@
 <!-- --- -->
 
 ## 🚀 Tecnologias e Ferramentas
-- Linguagens: **Python, Java, SQL**
-- Web: **Front-End, React**
+- Linguagens: **Python, SQL**
+- Web: **Front-End - React, Backend - Flask**
 - Banco de Dados: **SQLite, MySQL, PostgreSQL**
 - Ferramentas: **Power BI, Qlik Sense, Excel, Power Apps, Git/GitHub**
 - Cloud: **AWS**
